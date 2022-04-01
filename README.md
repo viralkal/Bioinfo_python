@@ -1,3 +1,2 @@
 # Bioinfo_python
-Python coding for bioinformatics
-This is a python code to translate ID's of a list of genes from entrez ID's to gene symbols. 
+Python coding for bioinformatics to perform translation of ID's and finding if a transcription factor exists for a given sequence.
